@@ -1,0 +1,41 @@
+body{
+    background-color: darkgreen;
+   color: white;
+  
+}
+h1{
+    font-size: 85px;
+    margin-left: 90px;
+    margin-top: 60px;
+    max-width: 50%;
+}
+h2{
+margin-left: 100px;
+margin-top: -30px;
+
+}
+#graphs{
+    margin-left: 100px;
+    margin-top: 150px;
+}
+input{
+    margin-left: 90px;
+    margin-top: 50px;
+    width: fit-content;
+    font-size: 20px;
+    background-color: chocolate;
+    color: black;
+    border: none;
+    border-radius: 50px;
+    padding: 20px;
+    font-weight: bold;
+}
+#imag{
+ text-align: right;
+ margin-top: -800px;
+}
+img{
+ height: 850px;
+ width:50%;
+}
+
